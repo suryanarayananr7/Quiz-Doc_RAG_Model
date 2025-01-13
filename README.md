@@ -106,5 +106,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - This project leverages LangChain and Google Gemini for powerful document analysis and question answering.
 
----
->>>>>>> 84b18b0 (Initial commit)
