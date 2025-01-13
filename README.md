@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-# Quiz-Doc_RAG_Model
-=======
----
+# Quiz-Doc_RAG_Model - Document QA with Google Gemini
 
-# QuizLang - Document QA with Google Gemini
-
-QuizLang is an interactive Document Question Answering (QA) application powered by Google Gemini and LangChain. It helps users analyze documents (PDF, DOCX, or CSV format), extract answers for exam-related questions, identify important topics for exam preparation, and interact with the AI to clarify doubts on specific topics.
+Quiz-Doc_RAG_Model is an interactive Document Question Answering (QA) application powered by Google Gemini and LangChain. It helps users analyze documents (PDF, DOCX, or CSV format), extract answers for exam-related questions, identify important topics for exam preparation, and interact with the AI to clarify doubts on specific topics.
 
 ## Features
 
@@ -28,8 +23,8 @@ To run the application, you'll need the following:
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/Sathya4683/QuizLang.git
-cd QuizLang
+git clone https://github.com/suryanarayananr7/Quiz-Doc_RAG_Model.git
+cd Quiz-Doc_RAG_Model
 ```
 
 ### Step 2: Install Dependencies
